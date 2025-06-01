@@ -36,18 +36,18 @@
 >It doesn't work with Wells Fargo, WhatsApp, and Bank of America.
 
 #### 4. Port Over Original Number
-- Switch back to your [Original Gmail Account].
-- Find where it says "Port a number" and begin the process. Not sure what this entails. Best of luck.
+> 1. Switch back to your [Original Gmail Account].<br>
+> 2. Find where it says "Port a number" and begin the process. Not sure what this entails. Best of luck.
 
 #### 5. Porting Completed
-- Move any account setup with [New Gmail Account]'s google voice number to [Original Google Voice]'s number.
-- Banks and Accounts that were left with your original phone number because they couldn't be switched to a voip number should now work with your [Original Google Voice]'s ported number.
+> Move any account setup with [New Gmail Account]'s google voice number to [Original Google Voice]'s number.
+> Banks and Accounts that were left with your original phone number because they couldn't be switched to a voip number should now work with your [Original Google Voice]'s ported number.
 
 #### 6. Google Voice
-- There is a google voice app you can setup on your phone.
-- Research how to setup wifi calling.
-- When placing calls internationaly with Google Voice do so from wifi with airplane mode enabled OR risk encuring international roaming fees. 
-- If for some reason calls can't be placed from wifi, look at setting up a VPN to place calls as if you were in the US. 
+> There is a google voice app you can setup on your phone.
+> Research how to setup wifi calling.
+> When placing calls internationaly with Google Voice do so from wifi with airplane mode enabled OR risk encuring international roaming fees. 
+> If for some reason calls can't be placed from wifi, look at setting up a VPN to place calls as if you were in the US. 
 
 #### 7. VPN (For a Later Date)
 
