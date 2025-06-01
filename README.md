@@ -40,8 +40,8 @@
 > 2. Find where it says "Port a number" and begin the process. Not sure what this entails. Best of luck.
 
 #### 5. Porting Completed
-> Move any account setup with [New Gmail Account]'s google voice number to [Original Google Voice]'s number.
-> Banks and Accounts that were left with your original phone number because they couldn't be switched to a voip number should now work with your [Original Google Voice]'s ported number.
+> 1. Move any account setup with [New Gmail Account]'s google voice number to [Original Google Voice]'s number.
+> 2. Banks and Accounts that were left with your original phone number because they couldn't be switched to a voip number should now work with your [Original Google Voice]'s ported number.
 
 #### 6. Google Voice
 > There is a google voice app you can setup on your phone.
