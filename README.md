@@ -3,14 +3,13 @@
 ## Gmail Accounts Needed
 
 ### [New Gmail Account]
-```
-For temporary porting, you will set this up, will likely need a non-voip number to setup at first. Do this with your telephone number before attempting to port it. This will not tie that number to this accounts google voice, only for 2FA.
-```
+
+>For temporary porting, you will set this up, will likely need a non-voip number to setup at first. Do this with your telephone number before attempting to port it. This will not tie that number to this accounts google voice, only for 2FA.
+
 
 ### [Original Gmail Account]
-```
-This is the account that you already use on your phone, for gmail, banking, and whatever else. This is where you will port your 806 number to. 
-```
+
+>This is the account that you already use on your phone, for gmail, banking, and whatever else. This is where you will port your 806 number to. 
 
 ### Steps 1 - 3
 Steps 1, 2, and 3 are optional. This will help ensure that you have your accounts backed up to some number incase something with the porting goes wrong while you are relocating. I'm not sure how long a port will take.
